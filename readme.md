@@ -13,3 +13,5 @@
 	- DIY to learn it 
 
 4. [PyTorch Fundamentals](https://pytorch.org/tutorials/beginner/basics/intro.html) 
+
+5. [Deep Learning Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
