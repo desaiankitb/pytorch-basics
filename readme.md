@@ -15,3 +15,22 @@
 4. [PyTorch Fundamentals](https://pytorch.org/tutorials/beginner/basics/intro.html) 
 
 5. [Deep Learning Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+	- What is PyTorch?
+		- PyTorch is a Python-based scientific computing package serving two broad purposes:
+			- A replacement for NumPy to use the power of GPUs and other accelerators.
+			- An automatic differentiation library that is useful to implement neural networks.
+	- Goal of this tutorial:
+		- Understand PyTorch’s Tensor library and neural networks at a high level.
+		- Train a small neural network to classify images
+
+6. [PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+	> **Note**: This is one of the older tutorials. You can view latest beginner content in [Learn the Basics](https://pytorch.org/tutorials/beginner/basics/intro.html).
+
+	- This tutorial introduces the fundamental concepts of PyTorch through self-contained examples. 
+
+	- At its core, PyTorch provides two main features: 
+		- An n-dimensional Tensor, similar to numpy but can run on GPUs 
+		- Automatic differentiation for building and training neural networks 
+
+	- We will use a problem of fitting $y = sin(x)$ with a third order polynomial as our running example. The network will have four prameters, and will be trained with gradient descent to fit random data by minimizing the Euclidean distance between the network output and the true output. 
