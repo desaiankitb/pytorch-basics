@@ -14,6 +14,12 @@
 
 4. [PyTorch Fundamentals](https://pytorch.org/tutorials/beginner/basics/intro.html) 
 
+	- Most machine learning workflows involve working with data, creating models, optimizing model parameters, and saving the trained models. This tutorial introduces you to a complete ML workflow implemented in PyTorch, with links to learn more about each of these concepts.
+
+	- We will use the FashionMNIST dataset to train a neural network that predicts if an input image belongs to one of the following classes: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, or Ankle boot.
+
+	- This tutorial assumes a basic familiarity with Python and Deep Learning concepts.
+
 5. [Deep Learning Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 	- What is PyTorch?
