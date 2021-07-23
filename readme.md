@@ -40,3 +40,5 @@
 		- Automatic differentiation for building and training neural networks 
 
 	- We will use a problem of fitting $y = sin(x)$ with a third order polynomial as our running example. The network will have four prameters, and will be trained with gradient descent to fit random data by minimizing the Euclidean distance between the network output and the true output. 
+
+7. What is `torch.nn` really? [link](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
